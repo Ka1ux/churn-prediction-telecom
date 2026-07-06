@@ -1,5 +1,7 @@
 # 📉 Previsão de Churn em Telecom
 
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
+
 Projeto de **Ciência de Dados** que prevê quais clientes de uma operadora de
 telecom têm maior risco de cancelar o serviço (*churn*). Cobre o ciclo completo:
 geração de dados, análise exploratória, modelagem e avaliação.
@@ -67,3 +69,18 @@ python src/03_modelagem.py
 ## 📓 Notebook
 
 Versão em Jupyter Notebook (já executada, com saídas e gráficos): [`notebook.ipynb`](notebook.ipynb).
+
+## 🧠 Habilidades demonstradas
+
+- Limpeza e preparação de dados com **pandas**
+- Análise exploratória (EDA) e visualização
+- Modelagem de **classificação** (Regressão Logística, Random Forest)
+- Pipeline com pré-processamento (scaling + one-hot encoding)
+- Avaliação de modelos: AUC-ROC, matriz de confusão, curva ROC
+
+---
+
+### 👤 Autor
+**Kauã Barroso** — Estudante de Engenharia de Computação, focado em Dados e IA.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3barroso/)
